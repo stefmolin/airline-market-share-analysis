@@ -1,4 +1,5 @@
-# Airline Market Share Analysis
+# Airline Market Share Analysis  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/airline-market-share-analysis/master)
+
 Blog post for OpenDataScience.com showing how to create a pivot table and stacked bar visualization of airline market share.
 
 ## About the Data
