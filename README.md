@@ -1,5 +1,5 @@
 # Airline Market Share Analysis  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/airline-market-share-analysis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefmolin/airline-market-share-analysis/master?filepath=analysis.ipynb)
 [![Nbviewer](https://img.shields.io/badge/render-nbviewer-lightgrey?logo=jupyter)](https://nbviewer.jupyter.org/github/stefmolin/airline-market-share-analysis/blob/master/analysis.ipynb)
 
 Blog post for OpenDataScience.com showing how to create a pivot table and stacked bar visualization of airline market share.
